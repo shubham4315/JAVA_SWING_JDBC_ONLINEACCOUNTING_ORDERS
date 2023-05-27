@@ -1,0 +1,2 @@
+# Description
+🛒 Ready to take your business to the next level? Check out my latest project! 💻 Built with Java Swing as the frontend and MySQL as the backend, this comprehensive application offers a wide range of functionalities for order placing, selling, and inventory tracking. 🔍 From managing customer orders to keeping track of all units present in the store, this app streamlines all aspects of the sales process. 💰
